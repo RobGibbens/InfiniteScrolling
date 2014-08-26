@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InfiniteScrolling/MainPage.xaml.cs">
+    <Files>
+      <File FileName="InfiniteScrolling/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="InfiniteScrolling/MainPage.xaml.cs" Line="18" Column="18" />
+      <File FileName="InfiniteScrolling/MainViewModel.cs" Line="5" Column="5" />
+      <File FileName="InfiniteScrolling/Person.cs" Line="1" Column="1" />
+      <File FileName="iOS/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="InfiniteScrolling/MainViewModel.cs" line="43" offsetX="405" offsetY="662" expression="value" liveUpdate="False" />
+    <Watch file="InfiniteScrolling/MainPage.xaml.cs" line="29" offsetX="722" offsetY="476" expression="person.Name" liveUpdate="False" />
+    <Watch file="InfiniteScrolling/MainPage.xaml.cs" line="30" offsetX="524" offsetY="419" expression="e.Item.Name" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
